@@ -1,6 +1,6 @@
 '''
 Notes:
-1. All of your implementation should be in this file. This is the ONLY .py file you need to edit & submit. 
+1. All of your implementation should be in this file. 
 2. Please Read the instructions and do not modify the input and output formats of function detect_faces() and cluster_faces().
 3. If you want to show an image for debugging, please use show_image() function in helper.py.
 4. Please do NOT save any intermediate files in your final submission.
