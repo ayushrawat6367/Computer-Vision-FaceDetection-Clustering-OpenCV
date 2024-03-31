@@ -1,4 +1,4 @@
-# Face-Rcognition
+# Face-Detection & Face Clustering
 The project involves two main tasks:
 
 Task 1. Face Detection using OpenCV and Face Recognition Library
